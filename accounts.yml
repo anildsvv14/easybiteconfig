@@ -1,0 +1,13 @@
+build:
+  version: 3.0
+
+accounts:
+  url: http://localhost:8081
+  message: Accounts Micro Service from Local Env
+  contact:
+    name: anil kumar sahu
+    email: anil@gmail.com
+  onCallSupport:
+    - 8700528309
+    - 8010405407
+

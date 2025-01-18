@@ -1,0 +1,12 @@
+accounts:
+  url: http://localhost:8082
+  message: Cards Micro Service QA Env
+  contact:
+    name: shikha sharma
+    email: shikha@gmail.com
+  onCallSupport:
+    - 8700528309
+    - 8989256724
+build:
+  version: 2.0
+

@@ -1,0 +1,12 @@
+build:
+  version: 2.0
+
+accounts:
+  url: http://localhost:8081
+  message: Accounts Micro Service from QA Env
+  contact:
+    name: anil kumar
+    email: anildsvv14@gmail.com
+  onCallSupport:
+    - 8989256724
+    - 8010405407

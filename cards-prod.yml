@@ -1,0 +1,11 @@
+accounts:
+  url: http://localhost:8082
+  message: Cards Micro Service PROD Env
+  contact:
+    name: shikha sharma
+    email: shikha@gmail.com
+  onCallSupport:
+    - 8700528309
+    - 8989256724
+build:
+  version: 1.0
