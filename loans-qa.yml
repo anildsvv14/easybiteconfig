@@ -6,7 +6,9 @@ loans:
   message: Loans Micro Service from QA Env
   contact:
     name: anil kumar
-    email: anilgmail.com
+    email: {cipher}8cad238433984b9e95d0bfc6caa210c76d7b69c6cc15b88e3983e6ff9a9b62d2af6c008f4c45ed2c238c51297ff2bff3
   onCallSupport:
     - 8000000000
     - 9000000000
+    
+    
